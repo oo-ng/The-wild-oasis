@@ -62,8 +62,11 @@ Deployed Domain: https://lively-genie.netlify.app/login
 
 ---
 To Demo
+
+   ```bash
 Email Address: oolagoke@example.com
 Password: 1234567890
+   ```
 ---
 
 
