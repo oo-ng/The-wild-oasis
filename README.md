@@ -58,5 +58,14 @@ Visit the app at `http://localhost:5173` in your browser.
 
 ---
 
+Deployed Domain: https://lively-genie.netlify.app/login
+
+---
+To Demo
+Email Address: oolagoke@example.com
+Password: 1234567890
+---
+
+
 Special thanks to: 
 Instructor Jonas Schmedtmann
