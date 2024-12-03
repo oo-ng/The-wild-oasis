@@ -20,7 +20,6 @@ export const Sidebar = () => {
         <StyledSideBar>
             <Logo/>
             <MainNav/>
-            <Uploader/>
         </StyledSideBar>
     )
 }
